@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #EAEAEA;
+    height: 100vh;
+    text-align: center;
+  }
+  #login .container #login-row #login-column #login-box {
+    margin-top: 20px;
+    margin-bottom: 200px;
+    
+    max-width: 600px;
+    height: 320px;
+    border: #9C9C9C;
+    background-color: #EAEAEA;
+  }
+  #login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+  }
+  #login .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -85px;
+  }
+
+  #LoginImg{ 
+     width: 600px;
+  }
+
+  .form-control{
+    width: 50%;
+    margin-left: 30%;
+  }
+
+  #errorContra, #errorNombre {
+    color: red;
+  }
+ 
+
+  
+  
+
+   .alertaDeError{
+    color:  red;
+    
+   }
